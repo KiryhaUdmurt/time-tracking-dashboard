@@ -13,7 +13,7 @@
 
 ### Ссылки
 
-- [Live site URL](https://where-is-the-country.vercel.app/) - Сайт
+- [Live site URL](https://time-tracking-dashboard-ochre.vercel.app/) - Сайт
 
 ### Используемые технологии
 
